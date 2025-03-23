@@ -27,7 +27,7 @@ Warning ðŸš¦ This Tool Formates (Permanent WhatsApp Otp Lock) So think and U
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/sulahh/WHATSAPP-OTP-LOCK`
+* `git clone https://github.com/sulaksha7/WHATSAPP_OTP_LOCK`
 * `cd $HOME`
 * `ls`
 * `cd Whatsapp_otp_lock`
