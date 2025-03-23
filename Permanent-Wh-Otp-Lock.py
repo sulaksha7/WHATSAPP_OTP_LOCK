@@ -19,7 +19,7 @@ def otp_lock_banner():
 
 𝗦𝗨𝗟𝗔𝗞𝗦𝗛𝗔 𝗠𝗔𝗗𝗔𝗥𝗔
 [bold {color}]●[bold {colors[(colors.index(color) + 1) % len(colors)]}] ●[bold {colors[(colors.index(color) + 2) % len(colors)]}] ======================================================
-[bold white][[bold red]^[bold white]] [bold green] Author: sula \n[bold white][[bold red]^[bold white]] [bold green] Github: https://github.com/sulahh/WHATSAPP-OTP-LOCK \n[bold white][[bold red]^[bold white]] [bold green] Whatsapp: https://whatsapp.com/channel/0029Vb65iOZKwqSNKecV8V07
+[bold white][[bold red]^[bold white]] [bold green] Author: sulaksha \n[bold white][[bold red]^[bold white]] [bold green] Github: https://github.com/sulaksha7/WHATSAPP_OTP_LOCK \n[bold white][[bold red]^[bold white]] [bold green] Whatsapp: https://whatsapp.com/channel/0029Vb65iOZKwqSNKecV8V07
 [bold {color}] [bold {colors[(colors.index(color) + 1) % len(colors)]}] [bold {colors[(colors.index(color) + 2) % len(colors)]}]===================================================== ''', title="[bold red] Created By sula", style=color)
         console.print(panel)
         time.sleep(0.5)
