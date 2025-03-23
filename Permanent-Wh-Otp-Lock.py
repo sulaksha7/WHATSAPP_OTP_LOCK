@@ -65,9 +65,9 @@ def print_separator():
 
 # Define lines of text with color and bold settings
 lines = [
-    ("CALL ME sula..", "93", True),
+    ("CALL ME Sula..", "93", True),
     ("I AM FROM SriLanka..", "92", True),
-    ("I AM THE OWNER OF 💀Dᴀʀᴋ Cʏʙᴇʀ Killers Tᴇᴀᴍ☠️⚠️..", "94", True),
+    ("I AM OWNER OF 💀Dᴀʀᴋ Cʏʙᴇʀ Killers Tᴇᴀᴍ☠️⚠️..", "94", True),
     ("HOPE YOU LIKE THIS SCRIPT..", "95", True),
     ("OOPS... I TALK A LOT SRY FOR THAT..", "96", True),
     ("Whatsapp Channel: ", "97", True),
