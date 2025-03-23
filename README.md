@@ -41,12 +41,6 @@ Warning ðŸš¦ This Tool Formates (Permanent WhatsApp Otp Lock) So think and U
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
 ```
 
-<p style="color:purple"><b>Connect With Us:</b></p>
-
-``(Tap To Redirect)``
-
-
-
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
